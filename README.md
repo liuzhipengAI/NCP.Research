@@ -22,3 +22,11 @@
 ## 友情站点
 2019新型冠状病毒疫情时间序列数据仓库
 #### [DXY-2019-nCoV-Data](https://github.com/NCP-VIS/DXY-2019-nCoV-Data)
+柳叶刀新型冠状病毒专题
+#### [Lancet](https://www.thelancet.com/coronavirus)
+新英格兰医学杂志新型冠状病毒专题
+#### [NEJM](https://www.nejm.org/coronavirus)
+美国医学会杂志新型冠状病毒专题
+#### [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
+英国医学杂志新型冠状病毒专题
+#### [BMJ](https://www.bmj.com/coronavirus)
