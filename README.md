@@ -12,7 +12,10 @@
 * [新闻报道](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93)
   * [Lancet](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93/%E6%9F%B3%E5%8F%B6%E5%88%80Lancet)
   * [BMJ](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93/%E8%8B%B1%E5%9B%BD%E5%8C%BB%E5%AD%A6%E6%9D%82%E5%BF%97BMJ)
-
+* [社论与评论](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E7%A4%BE%E8%AE%BA%E4%B8%8E%E8%AF%84%E8%AE%BA)
+  * [Lancet](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E7%A4%BE%E8%AE%BA%E4%B8%8E%E8%AF%84%E8%AE%BA/%E6%9F%B3%E5%8F%B6%E5%88%80Lancet)
+  * [JAMA](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E7%A4%BE%E8%AE%BA%E4%B8%8E%E8%AF%84%E8%AE%BA/%E7%BE%8E%E5%9B%BD%E5%8C%BB%E5%AD%A6%E4%BC%9A%E6%9D%82%E5%BF%97JAMA)  
+* [其他网络资料](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%85%B6%E4%BB%96%E7%BD%91%E7%BB%9C%E8%B5%84%E6%96%99)
 # 介绍
 此项目收集了医学核心期刊杂志、自然科学杂志、科技公司及数据分析爱好者对于新型冠状病毒的最新研究成果与数据资料，并将持续更新。<br> 
 希望关心疫情最新进展的学者与研究者可以第一时间获取到与新型冠状病毒肺炎相关的学术资料及数据，用于对疫情有利的后续更深层次的数据分析与医学研究工作。
