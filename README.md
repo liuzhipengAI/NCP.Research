@@ -19,3 +19,6 @@
 ├─LICENSE                          开源协议
 └─README.md                        主文档
 ```
+## 友情站点
+2019新型冠状病毒疫情时间序列数据仓库
+#### [DXY-2019-nCoV-Data](https://github.com/NCP-VIS/DXY-2019-nCoV-Data)
