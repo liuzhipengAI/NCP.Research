@@ -1,9 +1,15 @@
 # 新型冠状病毒肺炎研究进展（持续更新）
 本项目旨在分享2020新型冠状病毒最新研究进展及相关数据资料（包括但不限于：论文、报道、共享数据、视频资料），所有学术资料均为pdf格式（非链接），可直接阅读
-# 目录导引
+# 快捷导引
 * [学术论文](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)
   * [Nature](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/Nature)
   * [Science](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/Science)
+  * [NEJM](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%96%B0%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8C%BB%E5%AD%A6%E6%9D%82%E5%BF%97NEJM)
+  * [Lancet](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%9F%B3%E5%8F%B6%E5%88%80Lancet) 
+  * [JAMA](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E7%BE%8E%E5%9B%BD%E5%8C%BB%E5%AD%A6%E4%BC%9A%E6%9D%82%E5%BF%97JAMA) 
+  * [BMJ](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E8%8B%B1%E5%9B%BD%E5%8C%BB%E5%AD%A6%E6%9D%82%E5%BF%97BMJ)
+  * [预印本](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E9%A2%84%E5%8D%B0%E6%9C%AC)
+  
 # 介绍
 此项目收集了医学核心期刊杂志、自然科学杂志、科技公司及数据分析爱好者对于新型冠状病毒的最新研究成果与数据资料，并将持续更新。<br> 
 希望关心疫情最新进展的学者与研究者可以第一时间获取到与新型冠状病毒肺炎相关的学术资料及数据，用于对疫情有利的后续更深层次的数据分析与医学研究工作。
