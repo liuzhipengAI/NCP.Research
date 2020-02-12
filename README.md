@@ -1,7 +1,7 @@
 # 新型冠状病毒肺炎研究进展（持续更新）
 本项目旨在分享2020新型冠状病毒最新研究进展及相关数据资料（包括但不限于：论文、报道、共享数据、视频资料），所有学术资料均为pdf格式（非链接），可直接阅读
 # 快捷导引
-由于GitHub资源下载较慢，也可以通过百度云盘链接下载所需资料，[NCP.Research](https://pan.baidu.com/s/10T8dLwbB-Bk5ivI_vHZuHw)，提取码：68p5
+由于GitHub资源下载较慢，也可以通过百度云盘链接下载所需资料，请点击[NCP.Research](https://pan.baidu.com/s/10T8dLwbB-Bk5ivI_vHZuHw)，提取码：68p5
 * [学术论文](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)
   * [Nature](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/Nature)
   * [Science](https://github.com/liuzhipengAI/NCP.Research/tree/master/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/Science)
